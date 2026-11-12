@@ -1,7 +1,7 @@
 {
   "qq_number": "1017481406",
   "group_number": "1092498748",
-  "updated_at": "2026-11-12T11:27:30+00:00",
+  "updated_at": "2026-11-12T11:33:26+00:00",
   "skins": [
     {
       "name": "Bunny Offline",
@@ -51,6 +51,13 @@
       "thumb": "OVERCASTOS_融合.bdi_py_26_light_thumb.png",
       "full": "OVERCASTOS_融合.bdi_py_26_light_thumb.png",
       "file_id": "50488825"
+    },
+    {
+      "name": "Love.exe Has Died",
+      "file": "Love_exe_Has_Died.bdi",
+      "thumb": "Love_exe_Has_Died.bdi_py_26_light_thumb.png",
+      "full": "Love_exe_Has_Died.bdi_py_26_light_thumb.png",
+      "file_id": "asset_41580b56f41d46ae9050ffcf1fe09c3f"
     }
   ]
 }
