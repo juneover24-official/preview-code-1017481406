@@ -1,7 +1,7 @@
 {
   "qq_number": "1017481406",
   "group_number": "1092498748",
-  "updated_at": "2026-11-06T04:41:31+00:00",
+  "updated_at": "2026-11-12T11:25:14+00:00",
   "skins": [
     {
       "name": "Bunny Offline",
@@ -23,6 +23,13 @@
       "thumb": "Pattaya4pm.bds_py_26_light_thumb.png",
       "full": "Pattaya4pm.bds_py_26_light_thumb.png",
       "file_id": "50562339"
+    },
+    {
+      "name": "Pattaya 4PM",
+      "file": "Pattaya4pm_融合.bdi",
+      "thumb": "Pattaya4pm_融合.bdi_py_26_light_thumb.png",
+      "full": "Pattaya4pm_融合.bdi_py_26_light_thumb.png",
+      "file_id": "50588290"
     }
   ]
 }
