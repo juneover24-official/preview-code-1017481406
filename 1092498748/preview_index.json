@@ -1,7 +1,7 @@
 {
   "qq_number": "1017481406",
   "group_number": "1092498748",
-  "updated_at": "2026-11-12T11:25:55+00:00",
+  "updated_at": "2026-11-12T11:26:44+00:00",
   "skins": [
     {
       "name": "Bunny Offline",
@@ -37,6 +37,13 @@
       "thumb": "Pattaya4pm.bdi_py_26_light_thumb.png",
       "full": "Pattaya4pm.bdi_py_26_light_thumb.png",
       "file_id": "asset_55616248979840ae93c205ab2f83ad8c"
+    },
+    {
+      "name": "OVERCAST.OS",
+      "file": "OVERCASTOS.bdi",
+      "thumb": "OVERCASTOS.bdi_py_26_light_thumb.png",
+      "full": "OVERCASTOS.bdi_py_26_light_thumb.png",
+      "file_id": "50457451"
     }
   ]
 }
